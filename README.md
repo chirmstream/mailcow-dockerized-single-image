@@ -1,0 +1,1 @@
+# mailcow-dockerized-single-immage
