@@ -1,1 +1,1 @@
-# mailcow-dockerized-single-immage
+mailcow-dockerized that does not use docker-compose.
